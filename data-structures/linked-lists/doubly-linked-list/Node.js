@@ -36,6 +36,7 @@ class Node{
     setPrev(prev){
         this.prev = prev;
     }       
+
     
 
 }
